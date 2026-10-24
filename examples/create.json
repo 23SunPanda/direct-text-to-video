@@ -1,0 +1,19 @@
+{
+  "event_id": "sample-create-r1",
+  "project_id": "sample",
+  "kind": "create",
+  "data": {
+    "metadata": {
+      "title": "演示：小鸟回家",
+      "subject": "日常温暖短片",
+      "duration": "10秒",
+      "aspect": "16:9",
+      "style": "二维平涂",
+      "reference_type": "纯文字，无私人素材",
+      "platform": null,
+      "model": null,
+      "tags": ["日常", "节奏"],
+      "constraints": ["仅演示项目，非实际成片验收"]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "event_id": "sample-close-r1",
+  "project_id": "sample",
+  "kind": "close",
+  "data": {
+    "user_statement": "本视频制作到此结束",
+    "completion_confirmed": true,
+    "final_version": "V01",
+    "user_evaluation": "仅演示结案消息，不代表视频实际生成或技术验收",
+    "final_video_verified": false,
+    "unresolved": ["演示未提供最终视频，画面、音频与实际提交均未核实"],
+    "learnings": []
+  }
+}

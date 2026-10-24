@@ -1,0 +1,13 @@
+{
+  "event_id": "sample-iteration-r1",
+  "project_id": "sample",
+  "kind": "iterate",
+  "data": {
+    "version": "V01",
+    "baseline": null,
+    "submission_status": "unconfirmed",
+    "changes": ["首版完整导演稿"],
+    "validation_goals": ["回家动作与结尾是否读清"],
+    "prompt_text": "生成10秒、16:9的二维平涂动画短片。蓝色小鸟是唯一角色，黄色小屋位于画面右侧。0—6秒，固定中景，小鸟已经站在屋门口，将嘴里的一朵小花放在窗台上，松开后抬头看窗内暖光。6—10秒，切侧面近景，小鸟轻轻闭眼，羽毛放松，在温暖光线下保持自然呼吸。无文字和对白，保留轻微风声与小花落台声。"
+  }
+}
