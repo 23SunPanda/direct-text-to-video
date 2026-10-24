@@ -16,7 +16,7 @@ description: "编写和迭代文生视频整片直出提示词，分析参考视
 
 本技能同时维护：研读教程与相关经验 → 制定方案 → 提示词初稿 → 内部对照、必要时修改 → 用户在生成平台制作 → 成片复盘 → 迭代 → 用户明确结束 → 实际归档写入 → 更新索引 → 下次复用。它不自动启动付费生成，不改造成逐镜生图、后期剪辑或程序动画流程。
 
-新对话先读 [references/experience-workflow.md](references/experience-workflow.md)，按用户路径、工作区 `.video-experience.json` 或 `VIDEO_EXPERIENCE_ROOT` 定位真实经验库。读取 `INDEX.md` 与相关 `LEARNINGS.md` 条目，按题材、动作、运镜、时长和标签筛选案例，再深入读必要历史；不要整份加载数千行旧文档。路径缺失或不可写时报告具体缺口，不另建空白替代品。独立使用本技能写提示词无需私人经验库；只有用户明确要求才初始化新库。
+新对话先读 [references/experience-workflow.md](references/experience-workflow.md)，按用户路径、工作区 `.video-experience.json` 或 `VIDEO_EXPERIENCE_ROOT` 定位真实经验库。读取 `INDEX.md` 与相关 `LEARNINGS.md` 条目，按题材、动作、运镜、时长和标签筛选案例，再深入读必要历史；不要整份加载数千行旧文档。路径缺失或不可写时报告具体缺口，不另建空白替代品。独立使用本技能写提示词无需私人经验库；只有用户明确要求才初始化新库。没有私人库时，可从[作者公开经验](references/author-experience/README.md)检索通用经验和相关案例；该目录是只读参考，不作为用户自己的可写经验库。
 
 创作与复盘始终保留项目唯一ID、版本、基线、完整输入文件、实际提交状态、输出及证据层级。有库时通过维护脚本记录可访问的完整正文与版本差异，不用“同上”替代正文，不跨项目沿用取消项和特殊音频、画幅、尺寸或风格要求。
 
